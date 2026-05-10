@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+languageCode = 'ar'
+title = 'Abdulhameed Mahmoud | Data Systems Architect'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  title = "Abdulhameed Mahmoud"
+  description = "Senior Professional in Monitoring and Evaluation (M&E) and Data Systems Architect"
+  
+  [params.homeInfoParams]
+    Title = "مرحباً، أنا عبدالحميد محمود \U0001F44B"
+    Content = "أعمل كمهندس أنظمة بيانات وخبير في المتابعة والتقييم (M&E). أساعد المؤسسات على تصميم وبناء أنظمة ذكية وأدوات أتمتة باستخدام Looker Studio و Google Apps Script لقياس الأثر بدقة واتخاذ قرارات مبنية على البيانات."
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/yourprofile"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourprofile"
